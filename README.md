@@ -13,8 +13,10 @@ Simular o ciclo de trabalho de uma equipe de dados utilizando o GitHub como ambi
 
 ## Estrutura do Ciclo de Trabalho
 * **Registro de Produto (Product Backlog):
-* **Planejamento de Sprint:** 
-* **Execução e Acompanhamento:** 
+* **Planejamento de Sprint:** BlackFriday dia 27, seu Manoel nos chamou para analise, venda e promoções neste dia, deste modo sera feito analise exploratoria, analise inicial, limpeza de dados tratamento de dados, Interpretação e tomada de decisão, 
+* **Execução e Acompanhamento:** - Ao fim dos quatro minutos, Thúlio fez analise inicial, Marcia fez esboço do dash, Pri e Andre fizeram analise exploratória, Grazi estava na espera da limpeza
+
+- segundo dia fizeram a limpeza completa, dashboard explicativo feito e analise de vendas futuras, conversa com sr Manoel sobre erros discrepantes em linhas passadas pra equipe, enviado para Roberta (pessoa fictícia) do marketing **
 
 ## Equipe
 * **Scrum Master:**Thúlio Ferreira Jacauna**
