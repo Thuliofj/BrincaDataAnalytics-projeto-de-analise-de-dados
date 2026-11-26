@@ -14,5 +14,5 @@ Simular o ciclo de trabalho de uma equipe de dados utilizando o GitHub como ambi
 * **Execução e Acompanhamento:** 
 
 ## Equipe
-* **Scrum Master:** 
-* **Analistas de Dados:** 
+* **Scrum Master:**Thúlio Ferreira Jacauna**
+* **Analistas de Dados:** PRISCILLA S, Grazielle S, Andre S, Marcia P**
